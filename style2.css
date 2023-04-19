@@ -163,8 +163,8 @@ margin-bottom: 30px;
 }
 .menu-card .card{
     color: rgb(24, 24, 144);
-width: 370px;
-height: 320px;
+width: 400px;
+height: 350px;
 border-radius: 10%;
 background-color:cyan;
 border: 5px solid green;
@@ -187,5 +187,5 @@ margin-left: -20px;
     width: 350px;
 }
 .menu-card .menu-cards6{
-    height: 350px;
+    height: 380px;
 }
