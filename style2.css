@@ -157,14 +157,16 @@ margin-bottom: 30px;
 }
 .menu-card{
     display: flex;
-    flex-wrap: wrap;
+     flex-direction: column;
+}
+.menu-first-row, .menu-second-row{
+    display: flex;
     justify-content: space-evenly;
-
 }
 .menu-card .card{
     color: rgb(24, 24, 144);
-width: 400px;
-height: 350px;
+width: 350px;
+height: 300px;
 border-radius: 10%;
 background-color:cyan;
 border: 5px solid green;
@@ -181,12 +183,11 @@ margin-left: -20px;
 
 .menu-card .card ul li{
     text-align: center;
-
 }
 .menu-card .card hr{
     
     width: 350px;
 }
 .menu-card .menu-cards6{
-    height: 380px;
+    height: 330px;
 }
