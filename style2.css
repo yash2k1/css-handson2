@@ -143,9 +143,7 @@ margin-bottom: 30px;
 
 
 /* ----------menu----------- */
-.third-section{
 
-}
 .menu-box{
     display: flex;
     width: 400px;
@@ -165,8 +163,8 @@ margin-bottom: 30px;
 }
 .menu-card .card{
     color: rgb(24, 24, 144);
-width: 350px;
-height: 300px;
+width: 370px;
+height: 320px;
 border-radius: 10%;
 background-color:cyan;
 border: 5px solid green;
@@ -189,5 +187,5 @@ margin-left: -20px;
     width: 350px;
 }
 .menu-card .menu-cards6{
-    height: 330px;
+    height: 350px;
 }
